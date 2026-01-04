@@ -1,0 +1,251 @@
+Price_AED,City,Neighborhood,Property_Name,Type,Bedrooms,Bathrooms,Area_SqFt,Is_Furnished,Is_Upgraded,Has_View,Has_Maids,Has_Pool,Is_Ejari
+85000,Dubai,Dubai Studio City,Laya Heights,Apartment,1,2,742,1,1,0,0,0,0
+125000,Dubai,Jumeirah Beach Residence,Rimal 3 - Rimal,Apartment,1,2,1157,1,1,1,0,0,0
+375000,Dubai,Al Furjan,Tilal Al Furjan,Villa,4,5,4613,0,0,0,0,0,0
+100000,Dubai,Dubai Sports City,Giovanni Boutique Suites,Apartment,2,2,881,1,0,0,0,0,0
+240000,Dubai,The Springs,Springs 9,Townhouse,2,3,3578,0,0,0,0,1,0
+65000,Dubai,Downtown Jebel Ali,Suburbia Podium - Suburbia,Apartment,1,2,751,1,1,1,0,0,0
+700000,Dubai,Nad Al Sheba,Nad Al Sheba Villas - Nad Al Sheba 3,Villa,4,5,13855,0,1,0,0,1,0
+520000,Dubai,Zabeel,One Za'abeel The Residences - Zabeel 1,Apartment,2,3,1779,0,0,1,0,0,0
+290000,Dubai,Tilal Al Ghaf,Aura Gardens,Townhouse,4,5,2453,0,0,0,0,1,0
+195000,Dubai,Culture Village,D1 Tower,Apartment,1,2,1037,0,0,1,0,0,0
+170000,Dubai,The Hills,Vida Residence 2 - Vida Residence,Apartment,2,2,1298,0,0,0,0,0,0
+1150000,Dubai,Dubai Internet City,The S Tower,Penthouse,4,5,5062,0,1,0,0,0,0
+650000,Dubai,Jumeirah Park,Legacy,Villa,5,6,4689,0,0,0,0,1,0
+450000,Dubai,Bluewaters,Apartment Building 2 - Bluewaters Residences,Apartment,2,3,1677,0,1,1,0,0,0
+700000,Dubai,Nad Al Sheba,Nad Al Sheba Villas - Nad Al Sheba 3,Villa,4,6,12001,0,1,0,0,0,0
+350000,Dubai,Nad Al Sheba,Nad Al Sheba Villas - Nad Al Sheba 3,Villa,4,6,12925,0,1,0,0,0,0
+1100000,Dubai,Zabeel,One Za'abeel The Residences - Zabeel 1,Apartment,3,5,2436,0,1,1,0,0,0
+100000,Dubai,Town Square,Warda Apartments 1A - Warda Apartments 1 - Warda Apartments,Apartment,2,2,941,0,0,0,0,0,0
+20000,Sharjah,Muwaileh,Fire Station Road,Apartment,,1,300,0,0,0,0,0,0
+270000,Dubai,Dubai Marina,Azure,Apartment,3,3,2028,0,1,0,0,0,0
+1100000,Dubai,Al Barsha,Al Barsha South 2 - Al Barsha South,Villa,5,6,10000,0,1,0,0,1,0
+265000,Dubai,Dubai Harbour,Palace Beach Residence Tower 1 - Palace Beach Residence - EMAAR Beachfront,Apartment,2,2,1199,0,1,0,0,0,0
+500000,Dubai,Zabeel,One Za'abeel The Residences - Zabeel 1,Duplex,1,2,1500,1,1,1,0,0,0
+750000,Dubai,Zabeel,One Za'abeel The Residences - Zabeel 1,Duplex,2,3,2469,0,1,1,0,0,0
+1000000,Dubai,Jumeirah,Sunset Residence - Jumeirah 3,Apartment,3,4,6400,0,0,0,0,0,0
+200000,Dubai,Arabian Ranches 3,Joy,Townhouse,4,4,2665,0,0,0,0,0,0
+1100000,Dubai,Zabeel,One Za'abeel The Residences - Zabeel 1,Apartment,3,4,2436,0,1,1,0,0,0
+1300000,Dubai,Dubai Hills Estate,Palm Hills,Villa,5,6,7104,0,1,1,0,1,0
+110000,Dubai,Jumeirah Village Circle,Binghatti Phantom - District 17,Apartment,1,2,795,0,0,0,0,1,0
+119999,Dubai,Business Bay,UPSIDE Living,Apartment,,1,474,0,0,1,0,0,0
+85000,Dubai,Jumeirah Beach Residence,Murjan 2 - Murjan,Apartment,,1,714,1,0,0,0,0,0
+700000,Dubai,Nad Al Sheba,Nad Al Sheba Villas - Nad Al Sheba 3,Villa,4,6,12001,0,1,0,0,0,0
+350000,Dubai,Nad Al Sheba,Nad Al Sheba Villas - Nad Al Sheba 3,Villa,4,6,12925,0,1,0,0,0,0
+1100000,Dubai,Zabeel,One Za'abeel The Residences - Zabeel 1,Apartment,3,5,2436,0,1,1,0,0,0
+100000,Dubai,Town Square,Warda Apartments 1A - Warda Apartments 1 - Warda Apartments,Apartment,2,2,941,0,0,0,0,0,0
+1100000,Dubai,Palm Jumeirah,Garden Homes Frond C - Garden Homes,Villa,5,6,5000,0,0,1,0,0,0
+130000,Dubai,Dubai Marina,Princess Tower,Apartment,2,2,1186,0,0,1,0,0,0
+20000,Sharjah,Muwaileh,Fire Station Road,Apartment,,1,300,0,0,0,0,0,0
+340000,Dubai,Downtown Dubai,The Address Sky View Tower 1 - The Address Sky View Towers,Apartment,2,3,1543,0,0,0,0,0,0
+1000000,Dubai,Bluewaters,Apartment Building 2 - Bluewaters Residences,Apartment,4,5,2468,1,0,1,0,0,0
+550000,Dubai,Umm Suqeim,Umm Suqeim 1 Villas - Umm Suqeim 1,Villa,4,4,4500,0,1,0,1,1,0
+450000,Dubai,Jumeirah,Jumeirah 1 Villas - Jumeirah 1,Villa,4,4,4000,0,1,0,0,0,0
+200000,Dubai,Downtown Dubai,Boulevard Central Tower 2 - Boulevard Central Towers,Apartment,2,2,1267,1,0,1,0,0,0
+115000,Dubai,Damac Hills 2,Coursetia,Villa,3,5,1881,0,1,0,1,0,0
+270000,Dubai,Dubai Marina,Azure,Apartment,3,3,2028,0,1,0,0,0,0
+400000,Dubai,Arabian Ranches 3,Caya 1,Villa,4,4,6281,0,1,0,0,0,0
+1100000,Dubai,Al Barsha,Al Barsha South 2 - Al Barsha South,Villa,5,6,10000,0,1,0,0,1,0
+145000,Dubai,The Valley,Nara,Townhouse,3,4,2089,0,0,0,0,1,0
+1500000,Dubai,Bluewaters,Apartment Building 10 - Bluewaters Residences,Apartment,4,6,2581,1,0,1,0,0,0
+500000,Dubai,Jumeirah Beach Residence,1 JBR,Apartment,2,3,1925,1,1,1,0,0,0
+200000,Dubai,Dubai Hills Estate,Park Field Tower 2 - Park Field,Apartment,2,2,1013,0,1,0,0,0,0
+650000,Dubai,Bluewaters,Apartment Building 8 - Bluewaters Residences,Apartment,3,5,2097,1,1,1,0,0,0
+450000,Dubai,Bluewaters,Apartment Building 5 - Bluewaters Residences,Apartment,2,3,1597,0,0,1,0,0,0
+420000,Dubai,Bluewaters,Apartment Building 5 - Bluewaters Residences,Apartment,2,3,1372,1,0,1,0,0,0
+500000,Dubai,Zabeel,One Za'abeel The Residences - Zabeel 1,Duplex,1,2,1500,1,1,1,0,0,0
+750000,Dubai,Zabeel,One Za'abeel The Residences - Zabeel 1,Duplex,2,3,2469,0,1,1,0,0,0
+195000,Dubai,Downtown Dubai,South Ridge 6 - South Ridge,Apartment,2,3,1488,0,1,0,0,0,0
+1000000,Dubai,Jumeirah,Sunset Residence - Jumeirah 3,Apartment,3,4,6400,0,0,0,0,0,0
+320000,Dubai,Dubai Hills Estate,Maple at Dubai Hills Estate 1 - Maple at Dubai Hills Estate,Villa,4,4,2462,0,0,0,0,0,0
+105000,Dubai,Dubai Marina,Continental Tower,Apartment,2,4,1227,0,0,0,0,0,0
+750000,Dubai,Mohammed Bin Rashid City,District One Villas - District One,Villa,4,5,6486,0,1,0,0,0,0
+225000,Dubai,Palm Jumeirah,Al Khushkar - Shoreline Apartments,Apartment,2,4,1586,0,1,0,1,0,0
+400000,Dubai,Arabian Ranches 3,Caya 1,Villa,4,4,4896,0,1,0,0,0,0
+400000,Dubai,Arabian Ranches 3,Bliss,Villa,4,4,3110,0,0,0,0,0,0
+350000,Dubai,Jumeirah,Jumeirah 1 Villas - Jumeirah 1,Villa,4,5,3800,0,0,0,1,1,0
+500000,Dubai,Jumeirah,Jumeirah 3 Villas - Jumeirah 3,Villa,4,4,4500,0,1,0,1,1,0
+360000,Dubai,Palm Jumeirah,The Fairmont Palm Residence North - The Fairmont Palm Residences,Apartment,3,5,2174,0,0,0,1,0,0
+650000,Dubai,Jumeirah Park,Legacy,Villa,5,6,4689,0,0,0,0,1,0
+1399900,Dubai,Nad Al Sheba,Nad Al Sheba 4,Villa,6,7,41000,0,0,0,0,1,0
+420000,Dubai,Umm Suqeim,Umm Suqeim 3 Villas - Umm Suqeim 3,Villa,4,4,4500,0,0,0,0,1,0
+140000,Dubai,The Valley,Orania,Townhouse,3,3,1873,0,1,0,0,0,0
+170000,Dubai,The Valley,Talia,Townhouse,4,4,2772,0,0,0,1,0,0
+409999,Dubai,Al Furjan,Al Furjan West,Villa,5,7,6458,0,0,0,0,1,0
+230000,Dubai,Tilal Al Ghaf,Aura Gardens,Villa,3,4,2170,0,0,0,0,1,0
+700000,Dubai,Dubai Internet City,The S Tower,Apartment,4,6,5063,0,1,0,0,0,0
+400000,Dubai,Downtown Dubai,The Address Sky View Tower 1 - The Address Sky View Towers,Apartment,2,3,1699,1,0,1,0,0,0
+400000,Dubai,Jumeirah Park,Legacy,Villa,3,4,3527,0,0,0,0,0,0
+460000,Dubai,Bluewaters,Apartment Building 7 - Bluewaters Residences,Apartment,2,3,1670,1,0,0,0,0,0
+350000,Dubai,Al Jaddaf,Al Jaddaf Rotana Suite Hotel,Hotel & Hotel Apartment,3,4,3000,0,1,0,0,0,0
+155000,Dubai,Al Jaddaf,Al Jaddaf Rotana Suite Hotel,Hotel & Hotel Apartment,1,2,1067,0,1,0,0,0,0
+245000,Dubai,The Springs,Springs 14,Villa,3,3,2456,0,1,0,0,0,0
+85000,Dubai,Town Square,The Regent,Apartment,1,1,579,1,0,1,0,0,0
+13750000,Dubai,Jumeirah,Jumeirah Bay Island Villas - Jumeirah Bay Island,Villa,5,6,12000,0,0,0,0,1,0
+120000,Dubai,Dubai South (Dubai World Central),Greenview - EMAAR South,Townhouse,3,4,1518,0,0,0,0,0,0
+220000,Dubai,Damac Lagoons,Santorini,Townhouse,4,3,1550,0,1,0,0,0,0
+10000,Sharjah,Muwaileh Commercial,Al Shamsi 1,Apartment,,0,90,0,0,0,0,0,1
+330000,Dubai,Zabeel,Downtown Views II Tower 1 - Downtown Views II - Zabeel 2,Apartment,3,4,1780,0,0,1,0,0,0
+945000,Dubai,Mohammed Bin Rashid City,District One Villas - District One,Villa,4,6,7679,0,0,0,0,0,0
+235000,Dubai,Downtown Dubai,South Ridge 1 - South Ridge,Apartment,2,3,1635,0,0,1,0,0,0
+379999,Dubai,Dubai Harbour,Sunrise Bay Tower 1 - Sunrise Bay - EMAAR Beachfront,Apartment,3,3,1910,1,0,1,0,0,0
+180000,Dubai,Arabian Ranches 3,Ruba,Villa,3,4,1559,0,0,1,0,0,0
+120000,Dubai,Dubai Hills Estate,Park Field Tower 1 - Park Field,Apartment,1,1,647,0,0,0,0,0,0
+300000,Dubai,Dubai Marina,5242 Tower 2 - 5242,Apartment,3,5,1727,0,0,0,0,0,0
+250000,Dubai,Dubai Harbour,Sunrise Bay Tower 2 - Sunrise Bay - EMAAR Beachfront,Apartment,2,3,1231,1,0,1,0,0,0
+239999,Dubai,Dubai Marina,Marina Tower,Apartment,3,5,1854,0,0,1,0,0,0
+180000,Dubai,Mudon,Mudon Al Ranim 1,Townhouse,3,4,1808,0,1,0,0,0,0
+78000,Dubai,Jumeirah Village Circle,West View Terraces,Apartment,1,2,878,0,0,1,0,0,0
+1199999,Dubai,Mohammed Bin Rashid City,District One Villas - District One,Villa,5,7,8305,0,1,1,0,0,0
+185000,Dubai,DIFC,Limestone House,Apartment,1,2,1237,0,0,1,0,0,0
+175000,Dubai,DIFC,Burj Daman,Apartment,1,2,919,0,0,1,0,0,0
+330000,Dubai,Arabian Ranches 3,June,Villa,4,5,3250,0,1,0,0,0,0
+400000,Dubai,Dubai Hills Estate,Sidra Villas III - Sidra Villas,Villa,3,4,435,0,0,0,0,0,0
+490000,Dubai,Dubai Hills Estate,Sidra Villas III - Sidra Villas,Villa,4,5,3593,0,0,0,0,0,0
+229999,Dubai,Jumeirah Beach Residence,Murjan 1 - Murjan,Apartment,3,4,1922,0,0,1,0,0,0
+125000,Dubai,Dubai Hills Estate,Park Point Building C - Park Point,Apartment,1,1,693,1,1,0,0,0,0
+600000,Dubai,Nad Al Sheba,Nad Al Sheba Gardens 1 - Nad Al Sheba Gardens,Villa,6,,12543,0,0,0,0,0,0
+320000,Dubai,Downtown Dubai,Boulevard Point,Apartment,3,4,1821,0,0,1,0,0,0
+154999,Dubai,Dubai Festival City,Al Badia Living,Apartment,2,3,1257,0,1,0,0,0,0
+100000,Dubai,Jumeirah Village Circle,Ghalia Tower - District 18,Apartment,2,3,1127,1,0,0,0,0,0
+33000,Sharjah,Muwaileh,Fire Station Road,Apartment,1,2,850,0,0,0,0,0,0
+700000,Dubai,Nad Al Sheba,Nad Al Sheba Gardens 1 - Nad Al Sheba Gardens,Villa,5,7,12722,0,1,0,0,1,0
+500000,Dubai,Nad Al Sheba,Nad Al Sheba Gardens 1 - Nad Al Sheba Gardens,Villa,5,6,12529,0,1,0,1,0,0
+625000,Dubai,Jumeirah Park,Legacy,Villa,5,6,4689,1,0,1,0,0,0
+89999,Dubai,Arjan,Samana Park Views,Apartment,1,2,628,0,1,0,0,0,0
+1600000,Dubai,Jumeirah Park,Jumeirah Park Homes,Villa,7,,8227,0,0,0,0,0,0
+175000,Dubai,Dubai Land,La Rosa 5 - La Rosa - Villanova,Townhouse,3,4,1732,0,0,0,0,0,0
+2000000,Dubai,Palm Jumeirah,Signature Villas Frond P - Signature Villas,Villa,6,7,7000,0,0,0,0,0,0
+1600000,Dubai,Jumeirah Islands,Entertainment Foyer - Mediterranean Clusters,Villa,5,6,5800,0,1,0,0,0,0
+119999,Dubai,Business Bay,Aykon City Tower C - Aykon City,Apartment,2,3,897,0,0,0,0,0,0
+165000,Dubai,DAMAC Hills,Greenwoods,Townhouse,3,3,1980,0,1,0,0,0,0
+350000,Dubai,Arabian Ranches 2,Casa,Villa,5,6,6669,0,0,0,0,0,0
+850000,Dubai,Mohammed Bin Rashid City,District One Villas - District One,Villa,4,5,6135,0,1,0,0,0,0
+190000,Dubai,Jumeirah,Port de La Mer - La Mer,Apartment,2,3,1208,0,1,0,0,0,0
+500000,Dubai,Jumeirah,Jumeirah 1 Villas - Jumeirah 1,Villa,6,6,4600,0,1,0,1,0,0
+800000,Dubai,Zabeel,One Za'abeel Tower - Zabeel 1,Apartment,2,3,1539,1,0,1,0,0,0
+300000,Dubai,DAMAC Hills,Whitefield 1 - Whitefield,Townhouse,3,4,6003,1,0,0,0,0,0
+375000,Dubai,DAMAC Hills,Rockwood,Villa,5,7,4827,0,0,0,0,0,0
+1200000,Dubai,Palm Jumeirah,Palma Residences,Villa,5,6,3659,0,0,1,1,0,0
+180000,Dubai,Arabian Ranches 3,Spring,Villa,3,4,1936,0,0,0,0,0,0
+2000000,Dubai,Palm Jumeirah,Garden Homes Frond A - Garden Homes,Villa,5,6,5000,0,1,1,0,0,0
+260000,Dubai,Dubai Harbour,Palace Beach Residence Tower 1 - Palace Beach Residence - EMAAR Beachfront,Apartment,2,2,1195,0,1,1,0,0,0
+150000,Ajman,Al Mowaihat,Al Mowaihat 2,Villa,5,7,5000,0,0,0,0,0,0
+1000000,Dubai,Mohammed Bin Rashid City,District One Villas - District One,Villa,4,7,5055,0,0,1,0,0,0
+44000,Ajman,Emirates City,Gulf Tower,Apartment,2,2,1450,0,1,0,0,0,0
+259999,Dubai,Dubai Harbour,Beach Vista Tower 1 - Beach Vista - EMAAR Beachfront,Apartment,2,2,1164,1,1,1,0,0,0
+750000,Dubai,Al Barari,Ixora,Villa,4,4,4940,0,1,1,0,0,0
+180000,Dubai,The Valley,Orania,Villa,4,5,2784,0,0,0,0,1,0
+375000,Dubai,Umm Suqeim,Umm Suqeim 2 Villas - Umm Suqeim 2,Villa,5,5,4500,0,0,0,1,0,0
+125000,Dubai,Downtown Dubai,Kamoon 1 - Kamoon - Old Town,Apartment,1,2,791,0,0,1,0,0,0
+165000,Dubai,Dubai Land,La Violeta 2 - La Violeta - Villanova,Townhouse,3,2,1986,0,0,1,0,0,0
+129000,Dubai,Arjan,Art Parkview,Apartment,2,3,1363,0,0,0,0,0,0
+31000,Sharjah,Muwaileh,Muwailih Building,Apartment,1,1,800,0,1,0,0,0,0
+27000,Sharjah,Muwaileh,Muwaileh 29 Building,Apartment,1,1,700,0,0,0,0,0,0
+800000,Dubai,Jumeirah Islands,Entertainment Foyer - Mediterranean Clusters,Villa,4,5,11046,1,1,0,0,0,0
+310000,Dubai,The Springs,Springs 9,Villa,3,3,4172,0,0,1,0,0,0
+225000,Dubai,Tilal Al Ghaf,Aura Gardens,Townhouse,3,3,2152,0,0,0,0,1,0
+139000,Dubai,City Walk,Myrtle - Central Park at City Walk,Apartment,1,1,683,0,1,1,0,0,0
+145000,Dubai,Jumeirah Golf Estates,Al Andalus Tower D - Al Andalus,Apartment,2,3,1432,0,0,0,0,0,0
+175000,Dubai,City Walk,Viridian - Central Park at City Walk,Apartment,1,2,831,0,1,1,0,0,0
+185000,Dubai,City Walk,Viridian - Central Park at City Walk,Apartment,1,2,679,1,0,1,0,0,0
+215000,Dubai,Dubai Marina,Cayan Tower,Apartment,2,3,1521,1,1,1,0,0,0
+137000,Dubai,Al Muhaisnah,Qamar 10 - Madinat Badr,Apartment,2,3,1821,0,1,0,1,0,0
+400000,Dubai,Palm Jumeirah,Mileo the Palm,Hotel & Hotel Apartment,2,2,1216,0,1,0,0,0,0
+875000,Dubai,City Walk,City Walk Residential Building 13B - City Walk Residential,Apartment,4,5,2871,1,1,0,0,0,0
+175000,Dubai,Business Bay,SLS Dubai Hotel & Residences,Apartment,1,2,1296,1,0,1,0,0,0
+149995,Dubai,Business Bay,One of One Luxury Residences,Apartment,1,2,1016,0,0,0,0,0,0
+220000,Dubai,DAMAC Hills,Pelham - Akoya Park,Townhouse,3,4,2062,0,0,0,0,0,0
+140000,Dubai,Dubai Marina,5242 Tower 1 - 5242,Apartment,1,1,676,1,0,0,0,0,0
+106000,Dubai,Dubai South (Dubai World Central),Parkside 1 - EMAAR South,Townhouse,3,3,1980,0,0,0,0,0,0
+280000,Dubai,Mudon,Mudon Al Ranim 3,Townhouse,4,4,5735,0,0,0,0,0,0
+110000,Dubai,Dubai South (Dubai World Central),Greenview - EMAAR South,Townhouse,3,3,1950,0,0,0,0,0,0
+45000,Dubai,Dubai Land,Skycourts Tower D - Skycourts Towers - Dubai Land Residence Complex,Apartment,,1,649,0,0,0,0,0,0
+350000,Dubai,Tilal Al Ghaf,Aura Gardens,Villa,4,5,3411,0,0,0,0,0,0
+190000,Dubai,Mudon,Mudon Al Ranim 1,Townhouse,3,3,2300,0,1,0,0,0,0
+160000,Dubai,Arabian Ranches 3,Joy,Villa,3,3,1376,0,1,0,0,1,0
+400000,Dubai,Meadows,Meadows 5,Villa,4,4,4169,0,1,0,0,0,0
+185000,Dubai,Reem,Mira Oasis 3 - Mira Oasis,Villa,3,4,2562,0,0,0,0,1,0
+4000000,Dubai,Jumeirah Islands,Entertainment Foyer - Oasis Clusters,Villa,5,5,12133,1,0,1,0,0,0
+240000,Dubai,Tilal Al Ghaf,Aura Gardens,Townhouse,3,4,1511,0,1,0,0,0,0
+80000,Dubai,Dubai Marina,Sparkle Tower 3 - Sparkle Towers,Apartment,,1,406,1,0,0,0,0,0
+299000,Dubai,Dubai Hills Estate,Mulberry 2 - Park Heights,Apartment,3,4,1947,0,0,1,1,0,0
+430000,Dubai,Al Furjan,Murooj Al Furjan East,Villa,4,5,5618,0,0,0,1,1,0
+145000,Dubai,The Hills,Vida Residence 4 - Vida Residence,Apartment,1,2,878,0,0,0,0,0,0
+650000,Dubai,Al Barari,Ixora,Villa,4,4,4929,0,0,0,0,0,0
+165000,Dubai,Arabian Ranches,Al Reem 1 - Al Reem,Villa,2,2,1759,0,1,0,0,1,0
+31000,Sharjah,Muwaileh,Fire Station Road,Apartment,1,1,880,0,1,0,0,0,0
+180000,Dubai,Reem,Mira Oasis 3 - Mira Oasis,Townhouse,3,4,3520,0,0,0,0,0,0
+324000,Dubai,Palm Jumeirah,FIVE Palm Jumeirah,Apartment,2,3,1792,1,0,1,0,0,0
+700000,Dubai,Palm Jumeirah,Aquamarine - Tiara Residences,Apartment,3,3,1677,0,1,0,0,0,0
+85000,Ajman,Al Zahya,Al Zaheya Gardens,Villa,4,6,3014,0,0,0,0,0,0
+175000,Dubai,Damac Lagoons,Santorini,Townhouse,4,3,1550,0,1,0,0,0,0
+85000,Dubai,Business Bay,Zada Tower,Apartment,1,1,471,1,0,0,0,0,0
+220000,Dubai,Umm Suqeim,Jadeel 3 - Madinat Jumeirah Living,Apartment,2,2,1109,0,0,1,0,0,0
+142000,Ras Al Khaimah,Ras Al Khaimah Waterfront,The Cove Rotana,Villa,2,2,1499,0,0,0,0,0,0
+350000,Dubai,The Hills,Vida Residence 2 - Vida Residence,Apartment,2,3,1430,1,0,1,0,0,0
+210000,Dubai,Arabian Ranches 3,Joy,Townhouse,4,5,2666,0,0,0,0,0,0
+350000,Dubai,Mirdif,Mirdif Villas,Villa,5,6,10031,0,0,0,1,0,0
+350000,Dubai,Mudon,Mudon Al Ranim 2,Townhouse,4,3,3468,0,1,0,0,0,0
+85000,Dubai,Business Bay,Mayfair Tower,Apartment,1,1,573,0,0,1,0,0,0
+520000,Dubai,Dubai Hills Estate,Sidra Villas II - Sidra Villas,Villa,4,3,3455,0,0,0,0,0,0
+30000,Sharjah,Muwaileh,Fire Station Road,Apartment,1,1,800,0,1,0,0,0,0
+32000,Sharjah,Muwaileh,Fire Station Road,Apartment,1,1,800,0,0,0,0,0,0
+115000,Dubai,Downtown Dubai,Upper Crest,Apartment,1,1,901,0,0,0,0,0,0
+750000,Dubai,Nad Al Sheba,Nad Al Sheba Gardens 1 - Nad Al Sheba Gardens,Villa,5,7,11079,0,0,0,0,1,0
+320000,Dubai,The Springs,Springs 12,Villa,3,3,2258,0,1,0,1,0,0
+550000,Dubai,Bluewaters,Apartment Building 8 - Bluewaters Residences,Apartment,2,2,1503,1,1,1,0,0,0
+550000,Dubai,Bluewaters,Apartment Building 4 - Bluewaters Residences,Apartment,2,3,1592,1,1,1,0,0,0
+220000,Dubai,Arabian Ranches 3,Joy,Townhouse,4,3,2678,0,0,0,0,1,0
+150000,Dubai,Al Jaddaf,Dubai Wharf Tower 3 - Dubai Wharf,Apartment,2,3,1507,1,0,0,0,0,0
+63000,Dubai,Arjan,Oxford Gardens,Apartment,,1,404,0,0,1,0,0,0
+37000,Sharjah,Muwaileh Commercial,Al Thani Muwaileh,Apartment,1,2,995,0,0,0,0,0,0
+180000,Dubai,Reem,Mira Oasis 3 - Mira Oasis,Villa,3,4,2371,0,0,0,0,0,0
+450000,Dubai,Al Furjan,Murooj Al Furjan East,Villa,4,5,3547,0,0,0,0,0,0
+240000,Dubai,Al Furjan,Quortaj - North Village,Villa,3,4,2411,0,1,0,0,0,0
+375000,Dubai,Al Furjan,Tilal Al Furjan,Villa,4,7,6673,0,0,0,0,1,0
+260000,Dubai,The Springs,Springs 9,Villa,3,2,2450,0,1,0,0,0,0
+310000,Dubai,The Springs,Springs 9,Villa,3,2,4172,0,0,1,0,0,0
+85000,Dubai,Jumeirah Lake Towers,Goldcrest Executive - JLT Cluster C,Apartment,1,1,639,1,0,0,0,0,0
+310000,Dubai,Arabian Ranches 3,June,Villa,4,6,3089,0,0,0,0,0,0
+235000,Dubai,Damac Lagoons,Santorini,Townhouse,5,6,2212,0,0,0,0,0,0
+239990,Dubai,Mudon,Mudon Al Ranim 3,Townhouse,4,4,2659,0,1,0,0,0,0
+190000,Dubai,Reem,Mira Oasis 1 - Mira Oasis,Villa,3,4,2554,0,0,0,0,0,0
+170000,Dubai,Reem,Mira Oasis 1 - Mira Oasis,Villa,3,4,2295,0,0,0,0,0,0
+58000,Dubai,Jumeirah Village Circle,Bloom Towers B - Bloom Towers - District 10,Apartment,,1,393,0,1,1,0,0,0
+800000,Dubai,Jumeirah Golf Estates,Whispering Pines,Villa,4,6,5250,0,0,1,0,0,0
+200000,Dubai,Zabeel,Downtown Views II Tower 2 - Downtown Views II - Zabeel 2,Apartment,2,3,1204,1,0,0,0,0,0
+285000,Dubai,Al Wasl,Canal Front Residence 8 - Canal Front Residences,Apartment,1,1,1009,1,1,1,0,0,0
+290000,Dubai,Arabian Ranches 3,June,Villa,4,5,3252,0,1,0,0,1,0
+160000,Dubai,Dubai Land,La Violeta 2 - La Violeta - Villanova,Townhouse,3,4,1760,0,1,1,0,1,0
+350000,Dubai,DIFC,Burj Daman,Apartment,3,3,2053,1,0,1,0,0,0
+205000,Dubai,Damac Lagoons,Santorini,Townhouse,4,3,1550,0,0,1,0,0,0
+192000,Dubai,The Valley,Talia,Villa,4,4,2187,0,0,0,0,1,0
+65000,Dubai,Jumeirah Village Circle,Diamond Views 4 - Diamond Views,Apartment,1,1,675,0,0,0,0,0,0
+37000,Ajman,Emirates City,Paradise Lakes Towers,Apartment,2,2,1260,0,0,1,0,0,0
+265000,Dubai,City Walk,Central Park Building 1 - Central Park at City Walk,Apartment,2,2,1475,0,1,1,0,0,0
+55000,Ajman,Emirates City,Garden Residences,Apartment,3,3,1800,0,0,0,0,0,0
+32000,Ras Al Khaimah,Al Hamra Village,Marina Apartments F - Al Hamra Marina Residences,Apartment,,1,550,0,0,1,0,0,0
+2100000,Dubai,DIFC,Index Tower,Penthouse,5,5,7401,0,0,0,0,0,0
+310000,Dubai,DIFC,Index Tower,Apartment,2,3,2440,0,0,1,0,0,0
+500000,Dubai,DIFC,Index Tower,Apartment,3,4,3128,0,1,1,0,0,0
+265000,Dubai,DIFC,Index Tower,Apartment,2,3,1820,0,0,1,0,0,0
+235000,Dubai,DIFC,Central Park Residential Tower - Central Park Tower,Apartment,2,3,1621,0,0,1,0,0,0
+2600000,Dubai,Palm Jumeirah,Garden Homes Frond D - Garden Homes,Villa,5,7,7000,0,1,1,0,0,0
+450000,Dubai,Dubai Hills Estate,Sidra Villas I - Sidra Villas,Villa,4,4,3237,0,0,0,0,0,0
+209999,Dubai,Downtown Dubai,Burj Royale,Apartment,2,2,1045,0,1,1,0,0,0
+85000,Dubai,Jumeirah Village Circle,O2 Tower - District 14,Apartment,1,2,973,1,0,0,0,0,0
+165000,Dubai,Arabian Ranches,Al Reem 2 - Al Reem,Townhouse,2,3,1856,0,0,0,0,0,0
+134999,Dubai,The Valley,Orania,Townhouse,3,4,1872,0,1,0,0,0,0
+425000,Dubai,Al Furjan,Tilal Al Furjan,Villa,4,4,6291,0,0,0,0,0,0
+60000,Dubai,Meydan,AZIZI Riviera 7 - AZIZI Riviera - Meydan One,Apartment,,1,379,0,0,0,0,0,0
+205000,Dubai,Tilal Al Ghaf,Elan,Villa,3,4,2139,0,0,0,0,1,0
+19000,Sharjah,Al Sharq,Al Mujarrah,Apartment,,1,400,0,0,0,0,0,0
+20000,Sharjah,Al Musalla,Unknown,Apartment,1,1,800,0,0,0,0,0,0
+1800000,Dubai,Jumeirah,Bulgari Resort & Residences 3 - Bulgari Resort & Residences - Jumeirah Bay Island,Apartment,3,5,2698,0,0,1,0,0,0
+275000,Dubai,Tilal Al Ghaf,Aura Gardens,Townhouse,4,4,2421,0,1,0,0,1,0
+55499,Dubai,Jumeirah Village Circle,Luma 22 - District 10,Apartment,,1,413,0,0,1,0,0,0
+650000,Dubai,Umm Suqeim,Umm Suqeim 3 Villas - Umm Suqeim 3,Villa,7,,8000,0,0,0,0,0,0
+47999,Sharjah,Al Nahda,Al Nahda Complex,Apartment,2,2,1350,0,0,0,0,0,0
+165000,Dubai,Zabeel,1 Residences - 2 - 1 Residences - Al Kifaf,Apartment,2,3,1539,0,0,1,0,0,0
+175000,Dubai,Dubai Marina,The Royal Oceanic,Apartment,2,3,1203,1,0,0,0,0,0
