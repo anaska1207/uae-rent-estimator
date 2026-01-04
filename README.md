@@ -1,6 +1,6 @@
 # UAE Real Estate Price Estimator (End-to-End ML Project)
 
-(Replace this text with your live Streamlit URL after deployment, e.g., https://www.google.com/search?q=https://uae-rent-estimator.streamlit.app)
+https://uae-rent-estimator.streamlit.app
 
 # Project Overview
 
@@ -98,7 +98,7 @@ Bedrooms/Bathrooms - Standard correlation.
 
 Clone the repository
 
-git clone [https://github.com/YOUR_USERNAME/uae-rent-estimator.git](https://github.com/YOUR_USERNAME/uae-rent-estimator.git)
+git clone https://github.com/anaska1207/uae-rent-estimator.git
 
 
 Create a Virtual Environment (Recommended)
